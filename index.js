@@ -1,7 +1,7 @@
 const cityInput = document.getElementById("input");
 const dispalySection = document.getElementById("display");
 
-const API_KEY = "d9a34764d3364b4dbf8211321242509";
+const API_KEY = "529cf5d9193f4f06be852325241311";
 
 const handleClick = () => {
   let currentCity = cityInput.value;
